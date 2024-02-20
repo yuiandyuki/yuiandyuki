@@ -8,6 +8,6 @@
 <div align=center> 
   <img width="300" height="150" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuiandyuki&hide=html,css&layout=compact" /> 
- <img width="300" height="150" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
+</div>
 
 ![img1](img1.png)
