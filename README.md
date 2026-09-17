@@ -1,13 +1,20 @@
-<h1 align="center">Hey, kiddo 👋</h1>
-<h3 align="center">A passionate programmer and acg lover</h3>
+### Hi 👋
 
-# ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
+I'm a master's student at the **University of Tokyo** (Dept. of Electrical Engineering and Information Systems, Hanawa Lab — high-performance computing). Before that I studied computer science at Sun Yat-sen University and worked as a software engineer on embedded camera products.
 
-### <p align="center">  How to reach me 📫 liush337@mail2.sysu.edu.cn 📫
-### <p align="center">  My personal site 😉 [luvstar.top](https://luvstar.top) 😉
-<div align=center> 
-  <img width="300" height="150" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuiandyuki&hide=html,css&layout=compact" /> 
-</div>
+I'm interested in **systems for AI**: my current research looks at I/O and data movement for AI training workloads on GPU supercomputers.
 
-![img1](img1.png)
+**Interests:** distributed systems · AI infrastructure · HPC · storage & databases · operating systems
+
+#### Things I've built
+
+- [**basic-paxo-in-go**](https://github.com/yuiandyuki/basic-paxo-in-go) — single-decree Paxos (proposer / acceptor / learner) in Go, with tests
+- [**os_rust**](https://github.com/yuiandyuki/os_rust) — a small x86-64 kernel in Rust: interrupts, paging, heap allocation
+- **Raft-based sharded key-value store** (Go) — MapReduce, Raft, fault-tolerant KV and sharded KV from the MIT 6.824 labs
+- **B+ tree index & buffer pool** (C++) — for the BusTub database from CMU 15-445
+
+<sub>The last two are course assignments, kept private per the courses' policies — happy to share on request.</sub>
+
+**Languages:** Go · C++ · Python · Rust
+
+📍 Tokyo · graduating March 2028 · open to software engineering internships and new-grad roles
