@@ -17,4 +17,4 @@ I'm interested in **systems for AI**: my current research looks at I/O and data 
 
 **Languages:** Go · C++ · Python · Rust
 
-📍 Tokyo · graduating March 2028 · open to software engineering internships and new-grad roles
+
