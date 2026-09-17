@@ -1,20 +1,21 @@
 ### Hi 👋
 
-I'm a master's student at the **University of Tokyo** (Dept. of Electrical Engineering and Information Systems, Hanawa Lab — high-performance computing). Before that I studied computer science at Sun Yat-sen University and worked as a software engineer on embedded camera products.
+I'm a software engineer and a master's student at the **University of Tokyo** (Dept. of Electrical Engineering and Information Systems). Before that I studied computer science at Sun Yat-sen University.
 
-I'm interested in **systems for AI**: my current research looks at I/O and data movement for AI training workloads on GPU supercomputers.
+#### Experience
 
-**Interests:** distributed systems · AI infrastructure · HPC · storage & databases · operating systems
+- **TP-Link** — Software Engineer, video product line (embedded camera devices)
+- **Alibaba** — Software Engineering Intern, *Miaoya Camera* (AI portrait app)
+- **NetEase AI Lab** — Software Engineering Intern, AI motion-capture software
 
-#### Things I've built
+I like building products end to end — backend services, client apps, and the AI features that sit on top of them. At UTokyo my research is on I/O and data movement for AI training workloads on GPU supercomputers.
 
-- [**basic-paxo-in-go**](https://github.com/yuiandyuki/basic-paxo-in-go) — single-decree Paxos (proposer / acceptor / learner) in Go, with tests
-- [**os_rust**](https://github.com/yuiandyuki/os_rust) — a small x86-64 kernel in Rust (following the blog_os series): exceptions, hardware interrupts, paging
-- **Raft-based sharded key-value store** (Go) — MapReduce, Raft, fault-tolerant KV and sharded KV from the MIT 6.824 labs
-- **B+ tree index & buffer pool** (C++) — for the BusTub database from CMU 15-445
+#### Some things I've built
 
-<sub>The last two are course assignments, kept private per the courses' policies — happy to share on request.</sub>
+- [**basic-paxo-in-go**](https://github.com/yuiandyuki/basic-paxo-in-go) — single-decree Paxos in Go, with tests
+- [**os_rust**](https://github.com/yuiandyuki/os_rust) — a small x86-64 kernel in Rust (following the blog_os series)
+- Raft-based sharded key-value store in Go (MIT 6.824 labs) and a B+ tree index / buffer pool in C++ (CMU 15-445) — course work, private per course policy
 
 **Languages:** Go · C++ · Python · Rust
 
-
+📍 Tokyo · graduating March 2028 · open to software engineering internships and new-grad roles
